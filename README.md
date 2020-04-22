@@ -1,0 +1,1 @@
+# X_Ray_Covid_19_pnemonia_detection
