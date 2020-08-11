@@ -377,62 +377,8 @@ learn_np.recorder.plot()
 
 
 
-    <div>
-        <style>
-            /* Turns off some styling */
-            progress {
-                /* gets rid of default border in Firefox and Opera. */
-                border: none;
-                /* Needs to be in here for Safari polyfill so background images work as expected. */
-                background-size: auto;
-            }
-            .progress-bar-interrupted, .progress-bar-interrupted::-webkit-progress-bar {
-                background: #F44336;
-            }
-        </style>
-      <progress value='1' class='' max='2' style='width:300px; height:20px; vertical-align: middle;'></progress>
-      50.00% [1/2 01:44<01:44]
-    </div>
+    
 
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: left;">
-      <th>epoch</th>
-      <th>train_loss</th>
-      <th>valid_loss</th>
-      <th>f_beta</th>
-      <th>recall</th>
-      <th>precision</th>
-      <th>kappa_score</th>
-      <th>time</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>0</td>
-      <td>1.225322</td>
-      <td>#na#</td>
-      <td>01:44</td>
-    </tr>
-  </tbody>
-</table><p>
-
-    <div>
-        <style>
-            /* Turns off some styling */
-            progress {
-                /* gets rid of default border in Firefox and Opera. */
-                border: none;
-                /* Needs to be in here for Safari polyfill so background images work as expected. */
-                background-size: auto;
-            }
-            .progress-bar-interrupted, .progress-bar-interrupted::-webkit-progress-bar {
-                background: #F44336;
-            }
-        </style>
-      <progress value='3' class='' max='82' style='width:300px; height:20px; vertical-align: middle;'></progress>
-      3.66% [3/82 00:05<02:19 2.4850]
-    </div>
 
 
 
@@ -610,56 +556,9 @@ learn_np.recorder.plot()
 
 
 
-    <div>
-        <style>
-            /* Turns off some styling */
-            progress {
-                /* gets rid of default border in Firefox and Opera. */
-                border: none;
-                /* Needs to be in here for Safari polyfill so background images work as expected. */
-                background-size: auto;
-            }
-            .progress-bar-interrupted, .progress-bar-interrupted::-webkit-progress-bar {
-                background: #F44336;
-            }
-        </style>
-      <progress value='0' class='' max='2' style='width:300px; height:20px; vertical-align: middle;'></progress>
-      0.00% [0/2 00:00<00:00]
-    </div>
 
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: left;">
-      <th>epoch</th>
-      <th>train_loss</th>
-      <th>valid_loss</th>
-      <th>f_beta</th>
-      <th>recall</th>
-      <th>precision</th>
-      <th>kappa_score</th>
-      <th>time</th>
-    </tr>
-  </thead>
-  <tbody>
-  </tbody>
-</table><p>
 
-    <div>
-        <style>
-            /* Turns off some styling */
-            progress {
-                /* gets rid of default border in Firefox and Opera. */
-                border: none;
-                /* Needs to be in here for Safari polyfill so background images work as expected. */
-                background-size: auto;
-            }
-            .progress-bar-interrupted, .progress-bar-interrupted::-webkit-progress-bar {
-                background: #F44336;
-            }
-        </style>
-      <progress value='80' class='' max='82' style='width:300px; height:20px; vertical-align: middle;'></progress>
-      97.56% [80/82 02:08<00:03 0.1858]
-    </div>
+  
 
 
 
@@ -1002,62 +901,10 @@ learn_p.recorder.plot()
 
 
 
-    <div>
-        <style>
-            /* Turns off some styling */
-            progress {
-                /* gets rid of default border in Firefox and Opera. */
-                border: none;
-                /* Needs to be in here for Safari polyfill so background images work as expected. */
-                background-size: auto;
-            }
-            .progress-bar-interrupted, .progress-bar-interrupted::-webkit-progress-bar {
-                background: #F44336;
-            }
-        </style>
-      <progress value='1' class='' max='2' style='width:300px; height:20px; vertical-align: middle;'></progress>
-      50.00% [1/2 01:15<01:15]
-    </div>
+    
 
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: left;">
-      <th>epoch</th>
-      <th>train_loss</th>
-      <th>valid_loss</th>
-      <th>f_beta</th>
-      <th>recall</th>
-      <th>precision</th>
-      <th>kappa_score</th>
-      <th>time</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>0</td>
-      <td>1.255408</td>
-      <td>#na#</td>
-      <td>01:15</td>
-    </tr>
-  </tbody>
-</table><p>
 
-    <div>
-        <style>
-            /* Turns off some styling */
-            progress {
-                /* gets rid of default border in Firefox and Opera. */
-                border: none;
-                /* Needs to be in here for Safari polyfill so background images work as expected. */
-                background-size: auto;
-            }
-            .progress-bar-interrupted, .progress-bar-interrupted::-webkit-progress-bar {
-                background: #F44336;
-            }
-        </style>
-      <progress value='29' class='' max='61' style='width:300px; height:20px; vertical-align: middle;'></progress>
-      47.54% [29/61 00:38<00:42 3.5779]
-    </div>
+
 
 
 
@@ -1187,62 +1034,7 @@ learn_p.recorder.plot()
 
 
 
-    <div>
-        <style>
-            /* Turns off some styling */
-            progress {
-                /* gets rid of default border in Firefox and Opera. */
-                border: none;
-                /* Needs to be in here for Safari polyfill so background images work as expected. */
-                background-size: auto;
-            }
-            .progress-bar-interrupted, .progress-bar-interrupted::-webkit-progress-bar {
-                background: #F44336;
-            }
-        </style>
-      <progress value='1' class='' max='2' style='width:300px; height:20px; vertical-align: middle;'></progress>
-      50.00% [1/2 01:39<01:39]
-    </div>
 
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: left;">
-      <th>epoch</th>
-      <th>train_loss</th>
-      <th>valid_loss</th>
-      <th>f_beta</th>
-      <th>recall</th>
-      <th>precision</th>
-      <th>kappa_score</th>
-      <th>time</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>0</td>
-      <td>0.490839</td>
-      <td>#na#</td>
-      <td>01:39</td>
-    </tr>
-  </tbody>
-</table><p>
-
-    <div>
-        <style>
-            /* Turns off some styling */
-            progress {
-                /* gets rid of default border in Firefox and Opera. */
-                border: none;
-                /* Needs to be in here for Safari polyfill so background images work as expected. */
-                background-size: auto;
-            }
-            .progress-bar-interrupted, .progress-bar-interrupted::-webkit-progress-bar {
-                background: #F44336;
-            }
-        </style>
-      <progress value='25' class='' max='61' style='width:300px; height:20px; vertical-align: middle;'></progress>
-      40.98% [25/61 00:41<01:00 1.2234]
-    </div>
 
 
 
@@ -1870,59 +1662,7 @@ learn_cov.recorder.plot()
 
 
 
-    <div>
-        <style>
-            /* Turns off some styling */
-            progress {
-                /* gets rid of default border in Firefox and Opera. */
-                border: none;
-                /* Needs to be in here for Safari polyfill so background images work as expected. */
-                background-size: auto;
-            }
-            .progress-bar-interrupted, .progress-bar-interrupted::-webkit-progress-bar {
-                background: #F44336;
-            }
-        </style>
-      <progress value='1' class='' max='2' style='width:300px; height:20px; vertical-align: middle;'></progress>
-      50.00% [1/2 00:39<00:39]
-    </div>
 
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: left;">
-      <th>epoch</th>
-      <th>train_loss</th>
-      <th>valid_loss</th>
-      <th>auroc</th>
-      <th>time</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>0</td>
-      <td>1.244262</td>
-      <td>#na#</td>
-      <td>00:39</td>
-    </tr>
-  </tbody>
-</table><p>
-
-    <div>
-        <style>
-            /* Turns off some styling */
-            progress {
-                /* gets rid of default border in Firefox and Opera. */
-                border: none;
-                /* Needs to be in here for Safari polyfill so background images work as expected. */
-                background-size: auto;
-            }
-            .progress-bar-interrupted, .progress-bar-interrupted::-webkit-progress-bar {
-                background: #F44336;
-            }
-        </style>
-      <progress value='39' class='' max='54' style='width:300px; height:20px; vertical-align: middle;'></progress>
-      72.22% [39/54 00:29<00:11 1.8965]
-    </div>
 
 
 
